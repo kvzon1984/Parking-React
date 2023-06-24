@@ -1,0 +1,10 @@
+.App {
+  margin: 20px;
+}
+
+.notification a:not(.button):not(.dropdown-item) {
+  color: currentColor;
+  text-decoration: none;
+}
+
+
